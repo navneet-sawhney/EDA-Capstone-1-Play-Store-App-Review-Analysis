@@ -18,6 +18,6 @@ initial stages of App Development.
 We began by in-depth cleaning the datasets and then merged them to create one dataset. After
 that, we did a generalized analysis to get numerous insights. We particularly focussed on
 consumer behavior and what components affect the decision of the user to install the app.
-With the information gathered, we further tried to see if the medical category creating an app
+With the information gathered, we further tried to see if in the medical category, creating an app
 would be beneficial. If so, what kinds of apps have a higher probability of being favored by
 the audience.
